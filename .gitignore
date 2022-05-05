@@ -1,0 +1,9 @@
+config.json
+*.db*
+venv
+.idea
+.vscode
+__pycache__
+*.log
+*.mp4
+*.gif
